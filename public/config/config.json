@@ -1,10 +1,10 @@
 {
   "CONTRACT_ADDRESS": "0xc1fB38A3Cb76EB972607D0Ae0a8aaADd1743f5e1",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xc1fB38A3Cb76EB972607D0Ae0a8aaADd1743f5e1",
+  "SCAN_LINK": "https://testnet.snowtrace.io/address/0xc1fB38A3Cb76EB972607D0Ae0a8aaADd1743f5e1",
   "NETWORK": {
-    "NAME": "Mumbai Testnet",
-    "SYMBOL": "Matic",
-    "ID": 80001
+    "NAME": "Avalanche FUJI C-Chain",
+    "SYMBOL": "AVAX",
+    "ID": 43113
   },
   "NFT_NAME": "Nerdy Coder Clones",
   "SYMBOL": "NCC",
